@@ -1,0 +1,25 @@
+/* Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  border-box: 0;
+}
+
+*,
+input,
+button {
+  font-family: Arial, sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Styles */
